@@ -28,8 +28,6 @@ Certificado de instructor de Carpentries, 29 Nov, 1, 6 y 8 Dic 2023
 - sitio GitHub: https://github.com/carpentries/workshop-template
 - video tutorial: https://www.youtube.com/watch?v=_Ag1JiZzyUQ
 
-Escritura en el [Etherpad](https://pad.carpentries.org/2023-11-29-ttt-es-online)
-
 [Comunidad](https://carpentries.org/community/)
 
 ## Pasos para tener la certificacion como Instructor (checkout)
